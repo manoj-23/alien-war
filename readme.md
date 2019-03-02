@@ -1,1 +1,2 @@
-
+## Alien war begins....
+This is  a minimalistic game which revolves around killing aliens 
